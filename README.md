@@ -20,19 +20,20 @@ GitHub
 ## Health Dashboard Team Members
 
 **1. Asif Sir**  
-![Asif Sir](https://raw.githubusercontent.com/DataAnalystSachin/Health-Dashboard/main/asif-sir.png)
+![Asif Sir](https://raw.githubusercontent.com/DataAnalystSachin/Health-Dashboard/108957082478bca3a779714de777235d5a42994e/Asif%20sir.png)
 
 **2. Md Saddam Sir**  
-![Md Saddam Sir](https://raw.githubusercontent.com/DataAnalystSachin/Health-Dashboard/main/md-saddam-sir.png)
+![Md Saddam Sir](https://raw.githubusercontent.com/DataAnalystSachin/Health-Dashboard/108957082478bca3a779714de777235d5a42994e/Md%20Saddam%20sir.png)
 
 **3. Ramjeevan Sharma Sir**  
-![Ramjeevan Sharma Sir](https://raw.githubusercontent.com/DataAnalystSachin/Health-Dashboard/main/ramjeevan-sharma-sir.png)
+![Ramjeevan Sharma Sir](https://raw.githubusercontent.com/DataAnalystSachin/Health-Dashboard/108957082478bca3a779714de777235d5a42994e/Ramjeevan%20Sharma%20sir.png)
 
 **4. Shubham Dumbre Sir**  
-![Shubham Dumbre Sir](https://raw.githubusercontent.com/DataAnalystSachin/Health-Dashboard/main/shubham-dumbre-sir.png)
+![Shubham Dumbre Sir](https://raw.githubusercontent.com/DataAnalystSachin/Health-Dashboard/108957082478bca3a779714de777235d5a42994e/Shubham%20Dumbre%20sir.png)
 
 **5. Vijay Zine Sir**  
-![Vijay Zine Sir](https://raw.githubusercontent.com/DataAnalystSachin/Health-Dashboard/main/vijay-zine-sir.png)
+![Vijay Zine Sir](https://raw.githubusercontent.com/DataAnalystSachin/Health-Dashboard/108957082478bca3a779714de777235d5a42994e/Vijay%20Zine%20sir.png)
+
 
 Launch Power BI Desktop.
 
