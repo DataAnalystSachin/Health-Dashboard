@@ -17,33 +17,22 @@ Dynamic Visuals: Interactive charts and graphs for real-time data analysis.
 Personalized Greetings: Dynamic text boxes displaying personalized messages based on user data.
 GitHub
 
-📁 Repository Structure
-yaml
-Copy
-Edit
-Health-Dashboard/
-├── README.md
-├── health_score_data.csv
-├── health_images_links.csv
-├── Asif sir.png
-├── MD Saddam Sir.png
-├── Ramjeevan Sharma sir.png
-├── Shubham Dumbre sir.png
-├── Screenshot 2025-05-24 214222.png
-├── calories.png
-├── dumbbell.png
-├── footstep.png
-├── gym.png
-├── heart-attack.png
-├── restaurant.png
-🧰 Getting Started
-Clone the Repository:
+## Health Dashboard Team Members
 
-bash
-Copy
-Edit
-git clone https://github.com/DataAnalystSachin/Health-Dashboard.git
-Open in Power BI:
+**1. Asif Sir**  
+![Asif Sir](https://raw.githubusercontent.com/DataAnalystSachin/Health-Dashboard/main/asif-sir.png)
+
+**2. Md Saddam Sir**  
+![Md Saddam Sir](https://raw.githubusercontent.com/DataAnalystSachin/Health-Dashboard/main/md-saddam-sir.png)
+
+**3. Ramjeevan Sharma Sir**  
+![Ramjeevan Sharma Sir](https://raw.githubusercontent.com/DataAnalystSachin/Health-Dashboard/main/ramjeevan-sharma-sir.png)
+
+**4. Shubham Dumbre Sir**  
+![Shubham Dumbre Sir](https://raw.githubusercontent.com/DataAnalystSachin/Health-Dashboard/main/shubham-dumbre-sir.png)
+
+**5. Vijay Zine Sir**  
+![Vijay Zine Sir](https://raw.githubusercontent.com/DataAnalystSachin/Health-Dashboard/main/vijay-zine-sir.png)
 
 Launch Power BI Desktop.
 
